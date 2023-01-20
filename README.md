@@ -4,7 +4,7 @@ Flask is a micro web framework written in Python. It is classified as a microfra
 <br>
 
 ## Deploy
-👉 [Click Here for Live Preview](https://blog-flask-ruhul.herokuapp.com/)
+👉 [Click Here for Live Preview](https://buzzword.onrender.com/)
 
 <br>
 
